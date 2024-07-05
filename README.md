@@ -1,4 +1,4 @@
-# Hi there, I'm Okan Sechrin! 👋
+![## Hi There, I'm Okan](https://raw.githubusercontent.com/OkanShr/okanshr/main/WelcomeImg.webp)
 
 Welcome to my GitHub profile! I'm a passionate developer always looking to learn new things.
 

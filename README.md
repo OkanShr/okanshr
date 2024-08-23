@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer always looking to learn new things.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okansechrin/)
 
 ## 🔧 Technologies & Tools
 
@@ -37,6 +36,7 @@ Here are some of the projects I've worked on:
 ## 📫 How to Reach Me
 
 Feel free to reach out to me on LinkedIn or via email at [okan.shr@hotmail.com](mailto:okan.shr@hotmail.com).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okansechrin/)
 
 ---
 

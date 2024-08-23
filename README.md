@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer always looking to learn new things.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okan-sechrin-aaba2a21b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okansechrin/)
 
 ## 🔧 Technologies & Tools
 

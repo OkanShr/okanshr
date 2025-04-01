@@ -1,6 +1,6 @@
 ![## Hi There, I'm Okan](https://raw.githubusercontent.com/OkanShr/okanshr/main/WelcomeImg.webp)
 
-Welcome to my GitHub profile! I'm a passionate developer always looking to learn new things.
+Welcome to my GitHub profile! I'm a passionate developer always looking forward to learn new things.
 
 
 ## 🔧 Technologies & Tools
@@ -29,8 +29,8 @@ Here are some of the projects I've worked on:
 
 ## 🌱 What I'm Currently Learning
 
-- Advanced Spring concepts
-- Frontend with React
+- Advanced Spring concepts including Test automation
+- Frontend with React Typescript
 - Deployment with Docker
 
 ## 📫 How to Reach Me
